@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Apprentissage menu simple HTML</title>
+		<link rel="stylesheet" type="text/css" href="">
+		<style type="text/css">
+		/* CSS */
+		</style>
+	</head>
+
+	<body>
+		<h1>MARIAME MON AMOUR</h1> 
+		<img src="https://64.media.tumblr.com/fcceffc398f41dccad14538de2014ddc/tumblr_ojttc09Vrf1vafq7go4_250.gif"/> 
+
+		<p>On a traverser vents et marrées le chemin n'as pas été facile on a fallit souvent abondonner mais malgrés tout on a perseverer et regardes maintenant comment on est heureuses.</p>
+			Rien que pour ca je tenais a te dire que je t'aime <br> tu es forte et genial et je remercie Dieu de t'avoir creer mon amour!</p>
+			<h2>Tu ne devrait pas douter de ta valeur parce que tu es:</h2>
+			<ul>
+				<li>Forte et independante <br>
+				<img src="https://tpedisney35.wordpress.com/wp-content/uploads/2018/12/tumblr_inline_p7jbfwkJfr1t5s0wu_500.gif"></li>
+				<li>COURAGEUSE<br>
+				<img src="https://i.gifer.com/3TXr.gif"></li>
+				<li>Intelligente<br>
+				<img src="https://i.gifer.com/72nt.gif"></li>				<img src="https://25.media.tumblr.com/03b5aa8d2b6f5b393d1ebf9680310786/tumblr_mxutuwptNm1sqn4wyo1_400.gif"></li>
+			</ul>
+
+		
+	</body>
+
+	<script>
+		//JAVASCRIPT
+	</script>
+	<p>MDR on en apprend tout les jours je suis contente mon premier site hourraah.... <br> Bref merci a jsbin de me permettre de visualiser ce que je fait en direct.</p>
+	<hr>
+	<p>et voila le ''p'' pour creer un autre paragraphe ^^ hihihi</p>
+</html>
